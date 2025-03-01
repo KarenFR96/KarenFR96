@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Karen Figueroa Rodríguez! 🚀
+💻 QA Engineer | Manual & Automated Testing | Software Quality Advocate
 
-<!--
-**KarenFR96/KarenFR96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Passionate about ensuring high-quality software through functional and automated testing, optimizing processes, and improving user experiences.
 
-Here are some ideas to get you started:
+🛠️ Tech Stack & Skills
+Testing & QA: Manual & Automated Testing, Functional & Non-Functional Testing, Test Case Design
+Automation: Selenium, Puppeteer, Cypress
+API Testing: Postman, REST Assured
+Defect Tracking & Management: JIRA, TestLink, Mantis
+Programming: JavaScript, Python
+Databases: SQL, NoSQL
+CI/CD & Version Control: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📢 Let's Connect!
+📩 Email: karenf.r344@gmail.com
+🔗 LinkedIn: linkedin.com/in/karenfigueroar
+🐙 GitHub: github.com/KarenFR96
