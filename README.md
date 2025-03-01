@@ -1,7 +1,4 @@
-# <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/assets/avatar.png" width="200">
-</p>
-Hi, I'm Karen Figueroa Rodríguez! 🚀  
+# 👋 Hi, I'm Karen Figueroa Rodríguez! 🚀  
 
 **💻 QA Engineer | Manual & Automated Testing | Software Quality Advocate**  
 
