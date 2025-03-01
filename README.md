@@ -1,4 +1,6 @@
-# ![image](https://github.com/user-attachments/assets/7e0775d8-25b3-4308-a08e-2349f2fbbbb9)
+# <p align="center">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/assets/avatar.png" width="200">
+</p>
 Hi, I'm Karen Figueroa Rodríguez! 🚀  
 
 **💻 QA Engineer | Manual & Automated Testing | Software Quality Advocate**  
