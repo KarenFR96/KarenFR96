@@ -7,14 +7,15 @@
 ---
 
 ## 🛠️ Tech Stack & Skills  
-
-- **Testing & QA:** Manual & Automated Testing, Functional & Non-Functional Testing, Test Case Design  
-- **Automation:** Selenium, Puppeteer, Cypress  
-- **API Testing:** Postman, REST Assured  
-- **Defect Tracking & Management:** JIRA, TestLink, Mantis  
-- **Programming:** JavaScript, Python  
-- **Databases:** SQL, NoSQL  
-- **CI/CD & Version Control:** Git, GitHub  
+![QA Testing](https://img.shields.io/badge/QA%20Testing-Manual%20%7C%20Automated-blue?style=for-the-badge)  
+![Selenium](https://img.shields.io/badge/Selenium-Web%20Testing-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![JIRA](https://img.shields.io/badge/JIRA-Defect%20Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Puppeteer](https://img.shields.io/badge/Puppeteer-Web%20Automation-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-Programming-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=sqlite&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
 
