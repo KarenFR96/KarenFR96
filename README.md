@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Karen Figueroa Rodríguez! 🚀  
+# ![image](https://github.com/user-attachments/assets/7e0775d8-25b3-4308-a08e-2349f2fbbbb9)
+Hi, I'm Karen Figueroa Rodríguez! 🚀  
 
 **💻 QA Engineer | Manual & Automated Testing | Software Quality Advocate**  
 
