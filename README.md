@@ -37,7 +37,7 @@ A **task management web application** designed to streamline workflows and enhan
 
 ## 📢 Let's Connect!  
 
-📩 **Email:** karenf.r344@gmail.com  
+📩 **Email:** karenfigueroar.0119@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/karenfigueroar](https://www.linkedin.com/in/karenfigueroar)  
 🐙 **GitHub:** [github.com/KarenFR96](https://github.com/KarenFR96)  
 
