@@ -19,7 +19,21 @@
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects 
+
+# API Stand Tests - Automated API Testing  
+
+📌 **Technologies:** Postman, Newman, JavaScript, CI/CD, API Testing, JSON, GitHub Actions  
+
+## 📌 Project Overview  
+API Stand Tests es un proyecto de pruebas automatizadas para APIs, diseñado para garantizar la calidad y estabilidad de los servicios mediante validaciones eficientes.  
+
+## ✅ Features  
+- 🚀 Implementación de pruebas automatizadas para endpoints REST utilizando **Postman** y **Newman**.  
+- ✅ Validación de respuestas API mediante aserciones en **JavaScript**, asegurando funcionalidad y rendimiento.  
+- 🔄 Integración de pruebas en pipelines **CI/CD** con **GitHub Actions**, facilitando ejecución continua.  
+- 📁 Gestión estructurada de colecciones y entornos en **Postman**, permitiendo pruebas escalables y reutilizables.  
+
 
 ### 🔹 Task Master - Task Management Application  
 📌 **Technologies:** NestJS, Next.js, TypeScript, Node.js, React, API REST, SQL, Tailwind CSS  
