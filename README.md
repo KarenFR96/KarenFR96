@@ -26,13 +26,13 @@
 📌 **Technologies:** Python, Pytest, Requests, API Testing, CI/CD, JSON  
 
 📌 **Project Overview**  
-API User Testing es un proyecto de pruebas automatizadas diseñado para validar la creación de usuarios mediante solicitudes API, asegurando la integridad de los datos y el cumplimiento de restricciones.  
+API User Testing is an automated testing project designed to validate user creation through API requests, ensuring data integrity and compliance with restrictions.
 
 ✅ **Features**  
-- 🚀 Implementación de pruebas automáticas en **Pytest** para verificar la creación de usuarios.  
-- ✅ Validación de respuestas API utilizando **Requests** en Python.  
-- 🔄 Manejo dinámico de datos de prueba mediante estructuras en **JSON**.  
-- ⚙️ Integración con **CI/CD** para la ejecución continua de pruebas.  
+- 🚀 Implementation of automated tests in **Pytest** to verify user creation.
+- ✅ Validation of API responses using **Requests** in Python.
+- 🔄 Dynamic management of test data using **JSON** structures.
+- ⚙️ Integration with **CI/CD** for continuous test execution.
 
 ### 🔹 Task Master - Task Management Application  
 📌 **Technologies:** NestJS, Next.js, TypeScript, Node.js, React, API REST, SQL, Tailwind CSS  
