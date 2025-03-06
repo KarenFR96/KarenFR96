@@ -23,17 +23,16 @@
 
 ### 🔹 API Stand Tests - Automated API Testing  
 
-📌 **Technologies:** Postman, Newman, JavaScript, CI/CD, API Testing, JSON, GitHub Actions  
+📌 **Technologies:** Python, Pytest, Requests, API Testing, CI/CD, JSON  
 
 📌 **Project Overview**  
-API Stand Tests es un proyecto de pruebas automatizadas para APIs, diseñado para garantizar la calidad y estabilidad de los servicios mediante validaciones eficientes.  
+API User Testing es un proyecto de pruebas automatizadas diseñado para validar la creación de usuarios mediante solicitudes API, asegurando la integridad de los datos y el cumplimiento de restricciones.  
 
 ✅ **Features**  
-- 🚀 Implementación de pruebas automatizadas para endpoints REST utilizando **Postman** y **Newman**.  
-- ✅ Validación de respuestas API mediante aserciones en **JavaScript**, asegurando funcionalidad y rendimiento.  
-- 🔄 Integración de pruebas en pipelines **CI/CD** con **GitHub Actions**, facilitando ejecución continua.  
-- 📁 Gestión estructurada de colecciones y entornos en **Postman**, permitiendo pruebas escalables y reutilizables.  
-
+- 🚀 Implementación de pruebas automáticas en **Pytest** para verificar la creación de usuarios.  
+- ✅ Validación de respuestas API utilizando **Requests** en Python.  
+- 🔄 Manejo dinámico de datos de prueba mediante estructuras en **JSON**.  
+- ⚙️ Integración con **CI/CD** para la ejecución continua de pruebas.  
 
 ### 🔹 Task Master - Task Management Application  
 📌 **Technologies:** NestJS, Next.js, TypeScript, Node.js, React, API REST, SQL, Tailwind CSS  
